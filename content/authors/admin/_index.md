@@ -24,19 +24,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: UABCS
+    url: https://www.uabcs.mx/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Geology-Geomorphology
+      institution: Miami University
+      year: 2002
+    - course: M.Sc. in Geology
+      institution: North Carolina State University
+      year: 1994
+    - course: BSc in Geology
+      institution: Instituto Politécnico Nacional (ESIA)
+      year: 1982
 superuser: true
 highlight_name: true
 title: Genaro Martínez Gutiérrez
