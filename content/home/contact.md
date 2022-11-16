@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: Contacto
 subtitle:
 
 content:
@@ -25,19 +25,19 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: gmgeobaja@gmail.com
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    city: La Paz, Baja California Sur
+    region: BCS
+    postcode: '23080'
+    country: México
+    country_code: MX
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Laboratorio de Cartografía
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
