@@ -28,7 +28,7 @@ content:
   email: gmgeobaja@gmail.com
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
+    street: Carretera al sur km 5.5
     city: La Paz, Baja California Sur
     region: BCS
     postcode: '23080'
